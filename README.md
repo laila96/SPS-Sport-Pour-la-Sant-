@@ -1,4 +1,4 @@
-# SPS: Sport-Pour-la-Sant
+# SPS: Sport-Pour-Santé
 Application web de gestion d'un club sportif avec JavaEE SpringBoot, Hibernate,et Mysql
 
 Ce projet consiste à mettre en place une application Web pour la gestion d'un club sportif. 
